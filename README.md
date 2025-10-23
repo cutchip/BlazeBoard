@@ -19,8 +19,10 @@ BlazeBoard is a lightweight, full-screen kiosk application that automatically de
 ### Installation (for End Users)
 
 1.  Go to the **[Releases page](httpss://github.com/YourUsername/BlazeBoard/releases)**.
-2.  Download the latest `BlazeBoard.msi` installer and the `setup.exe` bootstrapper.
-3.  Run `setup.exe` to install the application and any prerequisites (like the WebView2 Runtime).
+2.  Download the latest `Installer.msi`.
+3.  Run `Installer.msi` to install the application.
+
+Pererequisite **[Microsoft Edge Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH#download)**
 
 ### Configuration (for Administrators)
 
