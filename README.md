@@ -1,6 +1,6 @@
 # BlazeBoard - Digital Signage Kiosk Solution
 
-![BlazeBoard Icon](path/to/your/icon.png)
+![BlazeBoard Icon](logo.png)
 
 Transform any Windows PC into a powerful, multi-screen digital signage solution with BlazeBoard. Designed for simplicity and scalability, BlazeBoard turns your displays into dynamic information hubs, perfect for corporate lobbies, retail spaces, manufacturing floors, and educational institutions.
 
@@ -15,11 +15,6 @@ BlazeBoard is a lightweight, full-screen kiosk application that automatically de
 * **Centralized Management:** Fully configurable via Windows Registry or Group Policy (ADMX/ADML templates provided).
 * **High-Resolution Ready:** Configurable zoom factor ensures content looks great on any display, from 1080p to 4K.
 * **Kiosk-Ready:** Designed for Windows Assigned Access (Kiosk Mode) and standard desktop use.
-
-### Screenshots
-
-
----
 
 ### Installation (for End Users)
 
@@ -38,5 +33,4 @@ For easy deployment, we strongly recommend using the provided Group Policy templ
 3.  Open the Group Policy Management Console and navigate to **Computer Configuration > Policies > Administrative Templates > BlazeBoard**.
 4.  Configure the settings for each screen as needed.
 
-(You can add more detail here, like the list of registry keys: `Layout`, `Urls`, `ZoomFactor`, etc.)
 
