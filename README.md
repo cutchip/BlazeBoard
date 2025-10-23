@@ -16,7 +16,7 @@ BlazeBoard is a lightweight, full-screen kiosk application that automatically de
 * **High-Resolution Ready:** Configurable zoom factor ensures content looks great on any display, from 1080p to 4K.
 * **Kiosk-Ready:** Designed for Windows Assigned Access (Kiosk Mode) and standard desktop use.
 
-### Installation (for End Users)
+### Installation
 
 1.  Go to the **[Releases page](httpss://github.com/YourUsername/BlazeBoard/releases)**.
 2.  Download the latest `Installer.msi`.
@@ -24,7 +24,7 @@ BlazeBoard is a lightweight, full-screen kiosk application that automatically de
 
 Pererequisite **[Microsoft Edge Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH#download)**
 
-### Configuration (for Administrators)
+### Configuration
 
 BlazeBoard is configured via the Windows Registry under `HKEY_LOCAL_MACHINE\SOFTWARE\BlazeBoard`.
 
