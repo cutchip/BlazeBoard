@@ -18,7 +18,7 @@ BlazeBoard is a lightweight, full-screen kiosk application that automatically de
 
 ### Installation
 
-1.  Go to the **[Releases page](httpss://github.com/YourUsername/BlazeBoard/releases)**.
+1.  Go to the **[Releases page](https://github.com/cutchip/BlazeBoard/releases/)**.
 2.  Download the latest `Installer.msi`.
 3.  Run `Installer.msi` to install the application.
 
@@ -30,7 +30,7 @@ BlazeBoard is configured via the Windows Registry under `HKEY_LOCAL_MACHINE\SOFT
 
 For easy deployment, we strongly recommend using the provided Group Policy templates.
 
-1.  Download the `BlazeBoard.admx` and `Blazeboard.adml` files from the latest **[Release](httpss://github.com/YourUsername/BlazeBoard/releases)**.
+1.  Download the `BlazeBoard.admx` and `Blazeboard.adml` files from the latest **[Release](https://github.com/cutchip/BlazeBoard/releases/)**.
 2.  Copy them to your domain controller's PolicyDefinitions folder (e.g., `C:\Windows\PolicyDefinitions` and `C:\Windows\PolicyDefinitions\en-US`).
 3.  Open the Group Policy Management Console and navigate to **Computer Configuration > Policies > Administrative Templates > BlazeBoard**.
 4.  Configure the settings for each screen as needed.
